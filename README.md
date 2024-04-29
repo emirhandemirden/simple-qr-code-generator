@@ -1,5 +1,5 @@
 ## Simple QR Code Generator
-this app developed by caliph.my.id I just made some changes and added to my repo.
+This app developed by caliph.my.id I just made some changes and added to my repo.
 
 ## Live Demo
 http://qr.emirhandemirden.cloud/

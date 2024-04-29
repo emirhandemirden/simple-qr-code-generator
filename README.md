@@ -2,7 +2,7 @@
 This app developed by caliph.my.id I just made some changes and added to my repo.
 
 ## Live Demo
-Live demo link <a href="http://qr.emirhandemirden.cloud/">here</a>.
+Live demo link <a target="_blank" href="http://qr.emirhandemirden.cloud/">here</a>.
 
 ## Screenshot(s)
 
